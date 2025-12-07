@@ -39,7 +39,7 @@ const Experience = () => {
                 Experience
             </h1>
             <div className="flex flex-wrap items-center justify-around">
-                <div className="flex flex-wrap gap-8 py-10 md:w-[50%] md:p-12">
+                <div className="flex flex-wrap items-center justify-center gap-8 py-10 md:w-[50%] md:p-12">
                     <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
                         <SiFastapi color="#399486" size={50} />
                     </span>
