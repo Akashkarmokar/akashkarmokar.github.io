@@ -21,7 +21,7 @@ const About = () => {
                             <ArrowRight size={30} className="mt-1" />
                             <span className="w-96">
                                 <h1 className="text-xl leading-normal font-semibold md:text-2xl">
-                                    Cloud & DevOps Specialist
+                                    Cloud & DevOps Enthusiasm
                                 </h1>
                                 <p className="md:text-md text-sm leading-tight">
                                     I have hands-on experience deploying,
@@ -34,11 +34,10 @@ const About = () => {
                                 </p>
                                 <hr className="my-2" />
                                 <p>
-                                    Skills: AWS EC2, S3, CloudFront, RDS,
-                                    Lambda, API Gateway, IAM, VPC, CloudWatch,
-                                    ECS/ECR, Route53 Terraform
-                                    (beginner/learning), Docker, GitHub Actions,
-                                    CI/CD pipelines.
+                                    Skills: AWS EC2, S3, SNS, SQS, CloudFront,
+                                    RDS, Lambda, API Gateway, IAM, VPC,
+                                    CloudWatch, Docker, GitHub Actions, CI/CD
+                                    pipelines.
                                 </p>
                                 <hr className="my-2" />
                                 <p>
@@ -53,7 +52,7 @@ const About = () => {
 
                             <span className="w-96">
                                 <h1 className="text-xl leading-normal font-semibold md:text-2xl">
-                                    Backend development
+                                    Backend Development
                                 </h1>
                                 <p className="md:text-md text-sm leading-tight">
                                     I build robust and scalable backend systems
@@ -84,7 +83,7 @@ const About = () => {
 
                             <span className="w-96">
                                 <h1 className="text-xl leading-normal font-semibold md:text-2xl">
-                                    Frontend development
+                                    Frontend Development
                                 </h1>
                                 <p className="md:text-md text-sm leading-tight">
                                     I am focus on performance optimization,
