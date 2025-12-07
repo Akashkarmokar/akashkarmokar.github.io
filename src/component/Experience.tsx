@@ -9,7 +9,7 @@ import {
     SiExpress,
     SiApachekafka,
 } from "react-icons/si";
-import { BiLogoPostgresql } from "react-icons/bi";
+import { BiLogoPostgresql, BiLogoTypescript } from "react-icons/bi";
 import { RiNextjsFill } from "react-icons/ri";
 import { GrGraphQl } from "react-icons/gr";
 import Link from "next/link";
@@ -45,6 +45,9 @@ const Experience = () => {
                     </span>
                     <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
                         <SiExpress color="#399486" size={50} />
+                    </span>
+                    <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
+                        <BiLogoTypescript color="#3278C6" size={50} />
                     </span>
                     <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
                         <FaJs color="#F7DF1E" size={50} />
