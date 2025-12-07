@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { FaJs, FaReact, FaPython, FaAws } from "react-icons/fa";
+import { FaJs, FaReact, FaPython, FaAws, FaDocker } from "react-icons/fa";
 import { FaGolang } from "react-icons/fa6";
 import {
     SiMongodb,
@@ -11,6 +11,7 @@ import {
 } from "react-icons/si";
 import { BiLogoPostgresql } from "react-icons/bi";
 import { RiNextjsFill } from "react-icons/ri";
+import { GrGraphQl } from "react-icons/gr";
 import Link from "next/link";
 import Image from "next/image";
 const Experience = () => {
@@ -65,6 +66,9 @@ const Experience = () => {
                         <SiRedis color="#FF4438" size={50} />
                     </span>
                     <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
+                        <FaDocker color="#1C9FEC" size={50} />
+                    </span>
+                    <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
                         <SiApachekafka color="#ffffff" size={50} />
                     </span>
                     <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
@@ -75,6 +79,9 @@ const Experience = () => {
                     </span>
                     <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
                         <RiNextjsFill color="#dce7eb" size={50} />
+                    </span>
+                    <span className="flex items-center rounded-2xl bg-zinc-950 p-3">
+                        <GrGraphQl color="#B84779" size={50} />
                     </span>
                 </div>
                 <div className="md:w-[50%]">
