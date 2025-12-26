@@ -34,7 +34,7 @@ const home = () => {
                             <FaGithub size={25} className="cursor-pointer" />
                         </a>
                         <a
-                            href="https://www.youtube.com/@buggish.stream"
+                            href="https://www.youtube.com/@a_k.stream"
                             target="_blank"
                         >
                             <FaYoutube
