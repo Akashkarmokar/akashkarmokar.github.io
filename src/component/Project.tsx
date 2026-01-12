@@ -23,11 +23,11 @@ const Projects = () => {
                     source_code_link="https://github.com/Akashkarmokar/OT-Labeler"
                 />
                 <ProjectCard
-                    title="Discord Bot"
-                    main="Tiny and simple 'Discord' bot application that can reply to the user on predefined business logic."
-                    image_path={"./discord-bot.webp"}
-                    more_details_link="https://discord.com/developers/docs/intro"
-                    source_code_link="https://github.com/Akashkarmokar/Discord-Bot"
+                    title="URL Shortener "
+                    main="A web application that converts long URLs into short, shareable links. Users should be able to create shortened URLs, track their performance, and manage their links through a dashboard."
+                    image_path={"./url-shortener.png"}
+                    more_details_link=""
+                    source_code_link="https://github.com/Akashkarmokar/URL_Shortner_FullStack"
                 />
             </div>
         </div>

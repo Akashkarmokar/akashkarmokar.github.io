@@ -13,7 +13,7 @@ const ProjectCard = ({
     return (
         <div className="flex w-80 flex-col items-center justify-between rounded-2xl bg-[#0c0e19] p-3 shadow-xl shadow-slate-900 md:p-6">
             <Image
-                className="p-4"
+                className="min-h-[200px] p-4"
                 src={image_path ? image_path : "/photo-C8q0KQHG.webp"}
                 alt=""
                 width={320}
